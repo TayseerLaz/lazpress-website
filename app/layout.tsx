@@ -54,10 +54,7 @@ export const metadata: Metadata = {
     title: "LAZ Press",
     description: "Your brand, fully handled.",
   },
-  icons: {
-    icon: "/lazpress.png",
-    apple: "/lazpress.png",
-  },
+  // Favicon auto-detected from app/icon.png (Next.js convention)
 };
 
 export const viewport: Viewport = {
